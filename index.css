@@ -22,7 +22,6 @@ p{
    margin: 1em auto;
   text-align: center;
   font-size: 110%;
-
 }
 
 .desc{
@@ -36,7 +35,6 @@ p{
   margin-right: auto;
   padding: 20px;
   max-width: 800px;
-
 }
 
 img{
@@ -46,12 +44,10 @@ img{
   max-width: 100%;
 }
   
-}
 .zaidi{
  max-width: 10%;
 }
   
-
 label{
   display: block;
   margin: 0.5rem 0;
