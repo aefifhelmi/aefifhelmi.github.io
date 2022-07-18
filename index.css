@@ -29,7 +29,7 @@ p{
 }
 
 .form{
-  width: 80%;
+  width: 100%;
   background-color: rgba(255,255,255,0.7);
   margin-left: auto;
   margin-right: auto;
@@ -56,7 +56,7 @@ label{
 }
 
 /* input size and lenght */
-input, select{ 
+input, select, textarea{ 
   margin: 10px 0 10px 0;
   width: 100%;
   min-height: 2em;
